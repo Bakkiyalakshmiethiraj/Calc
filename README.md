@@ -126,7 +126,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](<scr1 cal.png>)
-![Alt text](<scr2 cal.png>)
+![Alt text](calcu1.png)
+![Alt text](calcu2.png)
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
